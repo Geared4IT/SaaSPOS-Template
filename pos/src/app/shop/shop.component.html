@@ -1,0 +1,56 @@
+<div class="row">
+
+
+    <div class="col s6 offset-s6">
+        <!---spacer -->
+
+        <div class="card">
+          <table class="items">
+              <tr class="table-header">
+                  <th>Qty</th>
+                  <th>Item</th>
+                  <th>Price</th>
+                  <th>Modify</th>
+                </tr>
+          </table>
+        </div>
+        
+     </div>
+
+
+  <div class="col s6 offset-s6">
+
+  <ng-container *ngFor="let qn of shopService.qns;let i=index">
+    <div class="col s3">
+        <div class="card">
+            <div class="card-image waves-effect waves-block waves-light">
+              <img [src]="shopService.rootUrl+'/Images/'+qn.Image" style="height:250px;">
+            </div>
+            <div class="card-content">
+              <span class="card-title activator grey-text text-darken-4 font-18">{{qn.Title}} - R {{qn.Cost}}</span>
+              <p><a class="waves-effect waves-light btn" (click)="AddItem(qn.Item_ID,qn.Cost)">Add Item</a></p>
+            </div>
+            <div class="card-reveal">
+              <span class="card-title grey-text text-darken-4">Card Title<i class="material-icons right">close</i></span>
+              <p>Here is some more information about this product that is only revealed once clicked on.</p>
+            </div>
+          </div>
+    </div>
+  </ng-container>
+ 
+  </div>
+
+
+ 
+
+</div>
+<div class="row">
+  <div class="col s12 offset-s2">
+    <p class=" font-18">Total: $ {{shopService.total}}</p>
+    <a class="waves-effect waves-light btn" (click)="Checkout()">Checkout</a>
+  </div>
+</div>
+
+<style>
+
+</style>

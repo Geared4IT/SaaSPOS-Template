@@ -1,0 +1,67 @@
+<br><br>
+  <div class="col s6 offset-s3">
+   
+    <div class="card">
+      <div class="card-content"  *ngIf="isRegistered" >
+        <form #registerForm="ngForm" (ngSubmit)="OnSubmit(Name.value,Email.value)">
+          <div class="row">
+            <div class="input-field col s12">
+              
+              <input type="text" name="Name" #Name ngModel required>
+              <label for="Name">Username</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="input-field col s12">
+             
+              <input type="text" name="Email" #Email ngModel required [pattern]="emailPattern">
+              <label for="Email">Email</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s6">
+              <button class="col s12 btn-small btn-submit" type="submit" [disabled]="!registerForm.valid">Login</button>              
+            </div>
+            <div class="col s6">
+              <button class="col s12 btn-small btn pull-right" type="button">Register</button>
+            </div>
+            
+          </div>
+      
+          <div class="row">
+            <div class="input-field col s12">
+              <button class="col s12 btn-small btn" type="button">Demo</button>
+            </div>
+          </div>
+
+        </form>
+      </div>
+      <div class="card-content" *ngIf="!isRegistered">       
+        
+        <div class="form-group">
+          <label for="firstName">First Name</label>
+          <input type="text" name="firstName" class="form-control"/>         
+      </div>
+     
+      <div class="form-group">
+        <label for="lastName">Last Name</label>
+        <input type="text" name="lastName" class="form-control" >        
+    </div>
+    <div class="form-group">
+        <label for="username">Username</label>
+        <input type="text" name="username" class="form-control"/>        
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" name="password" class="form-control"/>        
+    </div>
+        <div class="row">
+          <div class="input-field col s12">
+            <button class="btn-large btn" type="button">Confirm Registration</button>
+          </div>
+        </div>
+      </div>
+
+
+    </div>   
+  </div>

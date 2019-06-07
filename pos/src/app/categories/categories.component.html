@@ -1,0 +1,43 @@
+ 
+ <mat-card-title class="add-padding heading">Categories</mat-card-title>
+
+<div class="col s6 offset-s3">
+    <div class="card">
+        <div class="card-content">
+            <form #categoriesForm="ngForm" (ngSubmit)="OnSubmit(Name.value)">
+            
+                <div class="row">
+                    <div class="input-field col s6">                      
+                      <input type="text" name="Name" #Name ngModel required>
+                      <label for="Name">Name</label>
+                    </div>
+                    <div class="input-field col s6">     
+                        <button class="checkout" mat-raised-button (click)="createCategory(Name.value)">Save</button>      
+                      </div>
+                  </div>
+
+
+                  <div class="row">                    
+                      <table class="items">
+                          <tr class="table-header">
+                            <th>Name</th>     
+                            <th>IsActive</th>
+                            
+                          </tr>
+                          <tr *ngFor="let item of categories" class="item">
+                            <td>{{item.Name}}</td>     
+                            <td>{{item.IsActive}}</td>
+                            <td>
+                              <mat-icon (click)="editItem(item)" class="del">control_point</mat-icon>
+                            
+                          </tr>
+                        </table>
+                  </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+      
+  
+

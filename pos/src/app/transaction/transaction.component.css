@@ -1,0 +1,62 @@
+/* @import '../../app.component.scss'; */
+
+.ticket-section { 
+  border: 1px solid #578EBE;
+  border-radius: 1rem;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.heading {
+  color: #578EBE;
+  font-family: cursive;
+}
+
+.table-header {
+  text-align: left;
+  font-family: cursive;
+  font-weight: 700;
+}
+
+.items {
+  width: 100%;
+}
+
+
+.item {
+  font-family:cursive;
+}
+
+.del {
+  color: grey;
+}
+.del:hover {
+  color: black;
+  cursor: pointer;
+}
+
+
+.summary {
+  margin-top: auto;
+}
+
+.total {
+  padding: 0.75rem;
+  font-family: cursive;
+}
+
+td, th {
+  padding: 0.5rem;
+  vertical-align: middle;
+}
+
+tr:nth-child(even) {
+  background-color: #eee;
+}
+
+.checkout {
+  margin-right: 0.75rem;
+  background-color:#26C281;
+  position: absolute;
+  right: 0;
+}
+

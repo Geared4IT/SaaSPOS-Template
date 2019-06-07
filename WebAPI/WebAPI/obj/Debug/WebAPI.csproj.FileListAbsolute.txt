@@ -1,0 +1,312 @@
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\ApplicationInsights.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\xampp\htdocs\Point of Sale Project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\ApplicationInsights.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Projects\Angular-5-POS-WebAPI-master\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\ApplicationInsights.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csc.exe
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csc.exe.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csc.rsp
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csi.exe
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csi.exe.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\csi.rsp
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Console.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\vbc.exe
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\vbc.exe.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\vbc.rsp
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.Web.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\bin\Microsoft.AI.Web.xml
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Projects\SaaSTemplate\WebAPI\WebAPI\obj\Debug\WebAPI.pdb

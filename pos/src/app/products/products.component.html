@@ -1,0 +1,29 @@
+<mat-tab-group>
+    <mat-tab *ngFor="let items of categories; let i = index"  label="{{categories[i]?.Name}}">
+        <div class="mdl-layout mdl-js-layout mdl-color--grey-100">
+        <!-- Card -->
+        <div class="flex flex-direction-row flex-wrap menu justify-center">
+            <ng-container *ngFor="let item of products" class="flex flex-direction-column item" >
+             
+              <div *ngIf="item.CategoryId == items.CategoryId" class="flex flex-direction-column item">
+                    <div [ngStyle]="{'background-image': 'url(' + item.Image + ')'}" class="item-img"></div>
+                    <h5 class="item-name">{{item.Name}}</h5>
+                    <mat-card-actions>
+                        <button mat-button><i class="material-icons small">add_shopping_cart</i>{{item.Cost}}</button>
+                        <button mat-button><i class="material-icons small">store</i>8</button>
+                     </mat-card-actions>
+
+                </div>
+                 
+            </ng-container>
+          </div>
+  
+        </div>        
+    </mat-tab>
+  </mat-tab-group>  
+
+
+
+
+
+
